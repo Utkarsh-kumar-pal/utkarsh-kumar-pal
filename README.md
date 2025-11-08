@@ -88,6 +88,10 @@ Now, I’m focused on leveraging Python, SQL, Power BI, and analytics to solve b
 [View My Tableau Public Profile →](https://public.tableau.com/app/profile/utkarsh.pal2872/vizzes)
 
 
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Utkarsh-kumar-pal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 
 ---
